@@ -1,4 +1,4 @@
-# Library_Management_System
+# Library_Management_System in Python
 A simple and functional Library Management System Implemented in python 3 (Tkinter module)
 # Installation:
 1. Clone repository 
